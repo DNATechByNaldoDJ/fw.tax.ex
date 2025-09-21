@@ -1,0 +1,7 @@
+.vscode
+./.vscode
+_commit.txt
+/_commit.txt
+*.code-workspace
+*.bak
+*.~tlp

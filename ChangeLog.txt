@@ -39,3 +39,5 @@
   + docs/DB_SCHEMA.md
   + docs/EXAMPLES.md
   * README.md
+  + .gitattributes
+  + .gitignore
